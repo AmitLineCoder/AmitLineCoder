@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Amit Kalita</h1>
-<h3 align="center">I am a engineer, where the code is elegant, the algorithms are complex, and the errors are always unexpected.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitlinecoder&label=Profile%20views&color=0e75b6&style=flat" alt="amitlinecoder" /> </p>
 
