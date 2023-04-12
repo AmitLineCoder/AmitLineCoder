@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Amit Kalita</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitlinecoder&label=Profile%20views&color=0e75b6&style=flat" alt="amitlinecoder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitlinecoder" alt="amitlinecoder" /></a> </p>
-
 - 💬 Ask me about **Everything :)**
 
 - 📫 How to reach me **amitkalita8989@gmail.com**
